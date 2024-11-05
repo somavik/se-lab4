@@ -1,0 +1,2 @@
+GT4500,0,0,1,0  #űrhajó megalkotása
+TORPEDO,ALL     #nincs 2.-ból megy
