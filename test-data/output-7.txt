@@ -1,0 +1,7 @@
+SUCCESS  #űrhajó megalkotása
+FAIL
+FAIL
+FAIL
+FAIL
+FAIL
+FAIL
