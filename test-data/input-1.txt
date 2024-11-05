@@ -1,0 +1,6 @@
+#űrhajó megalkotása
+GT4500,1,0,1,0
+TORPEDO,SINGLE  #tüzel az elsőből
+TORPEDO,SINGLE  #tüzel a másodikból
+TORPEDO,SINGLE  #tüzelne az elsőből
+

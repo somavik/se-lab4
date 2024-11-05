@@ -1,0 +1,7 @@
+SUCCESS  #űrhajó megalkotása
+SUCCESS  #tüzel az elsőből
+FAIL     #tüzelne a másodikból, de besül
+SUCCESS  #tüzel az elsőből
+FAIL     #tüzelne a másodikból, de besült
+FAIL     #tüzelne az elsőből, de már nincs
+FAIL     #tüzelne a másodikból, de besül

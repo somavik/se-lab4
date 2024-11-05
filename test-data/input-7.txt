@@ -1,0 +1,7 @@
+GT4500,2,1,2,1  #űrhajó megalkotása
+TORPEDO,SINGLE  #tüzenel az elsőből, de besül
+TORPEDO,SINGLE  #tüzelne a másodikból, de besül
+TORPEDO,SINGLE  #tüzel az elsőből, de besült
+TORPEDO,SINGLE  #tüzelne a másodikból, de besült
+TORPEDO,SINGLE  #tüzelne az elsőből, de besült
+TORPEDO,SINGLE  #tüzelne az másodikból, de besült
