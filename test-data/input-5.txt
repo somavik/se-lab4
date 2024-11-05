@@ -1,0 +1,3 @@
+GT4500,2,0,2,1  #űrhajó megalkotása
+TORPEDO,ALL     #tüzelne mindegyikből (a 2. besül)
+TORPEDO,ALL     #ugyanez mégegyszer

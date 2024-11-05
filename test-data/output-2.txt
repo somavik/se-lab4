@@ -1,0 +1,4 @@
+SUCCESS  # <- GT4500
+SUCCESS  # torpedó az elsőből
+SUCCESS  # a másodikból
+SUCCESS  # 2.-ban még van

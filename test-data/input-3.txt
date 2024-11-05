@@ -1,0 +1,4 @@
+GT4500,1,0,1,1  #űrhajó megalkotása
+TORPEDO,SINGLE  #tüzel az elsőből
+TORPEDO,SINGLE  #tüzelne a másodikból, de besül
+TORPEDO,SINGLE  #tüzelne az elsőből, de már elromlott az ürhajó
